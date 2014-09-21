@@ -1,0 +1,29 @@
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.manifest
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.application
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe.manifest
+c:\users\кирилл\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.application
+F:\Мои программы\C#\Калькулятор\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+F:\Мои программы\C#\Калькулятор\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+F:\Мои программы\C#\Калькулятор\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+F:\Мои программы\C#\Калькулятор\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.manifest
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.application
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe.manifest
+F:\Мои программы\C#\calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.application
